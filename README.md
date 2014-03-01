@@ -1,6 +1,7 @@
 Bandmate
 ========
 Nicole Aitchison
+
 MDD 1402 Final Project
 
 Bandmate: http://nlaitchison.github.io/Bandmate/#/
